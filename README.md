@@ -1,8 +1,8 @@
 # Data Structure and Algorithm Quiz App
 This is a quiz application that tests the user's knowledge of data structures and algorithms. The app is built using HTML, CSS, and JavaScript and is designed to be responsive and user-friendly.
 
-## Quiz-App Link
-https://acheiveer.github.io/Quiz-App/
+## Quiz-App [Link](https://acheiveer.github.io/Quiz-App/)
+
 
 ## Features
 The app includes the following features:
